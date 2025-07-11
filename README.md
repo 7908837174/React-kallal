@@ -1,4 +1,15 @@
-# React + Vite
+# React-kallal
+
+This is a React project with multiple components demonstrating various React concepts including:
+
+- Counter components with state management
+- Temperature converter
+- BMI calculator
+- Greeting components with props
+- Class components with lifecycle methods
+- Functional components with hooks
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
